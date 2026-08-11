@@ -1,0 +1,9 @@
+.llm-wiki/
+.cache/
+node_modules/
+.env
+.env.*
+
+# Keep machine-specific Obsidian workspace state out of version control.
+.obsidian/workspace.json
+.obsidian/workspaces.json
