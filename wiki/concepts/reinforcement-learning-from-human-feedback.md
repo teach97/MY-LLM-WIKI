@@ -1,20 +1,20 @@
 ---
 type: concept
-title: Reinforcement Learning from Human Feedback
+title: reinforcement-learning-from-human-feedback (인간 피드백 기반 강화학습)
 status: draft
 tags:
   - llm
   - alignment
 aliases:
   - RLHF
-  - 인간 피드백 기반 강화학습
+  - Reinforcement Learning from Human Feedback
 created: 2026-08-12
 updated: 2026-08-12
 sources: []
 related: []
 ---
 
-# Reinforcement Learning from Human Feedback
+# reinforcement-learning-from-human-feedback (인간 피드백 기반 강화학습)
 
 > 초기 stub 페이지이다. 원본 자료를 ingest한 뒤 보상 모델·정렬 절차·한계를 작성한다.
 

@@ -1,4 +1,4 @@
-# LLM Wiki 목적
+# purpose.md (목적)
 
 ## 목표
 

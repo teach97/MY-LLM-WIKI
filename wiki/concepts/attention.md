@@ -1,12 +1,12 @@
 ---
 type: concept
-title: Attention
+title: attention (어텐션)
 status: draft
 tags:
   - llm
   - transformer
 aliases:
-  - 어텐션
+  - Attention
 created: 2026-08-12
 updated: 2026-08-12
 sources: []
@@ -14,7 +14,7 @@ related:
   - wiki/concepts/transformer
 ---
 
-# Attention
+# attention (어텐션)
 
 > 초기 stub 페이지이다. 원본 자료를 ingest한 뒤 정의·수식·변형·한계를 작성한다.
 

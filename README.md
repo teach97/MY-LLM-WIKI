@@ -1,6 +1,6 @@
-# LLM Wiki
+# README.md (시작 안내)
 
-Obsidian과 Codex로 유지하는 개인 LLM 지식 베이스이다.
+Obsidian과 Codex로 유지하는 개인 LLM WIKI이다.
 
 ## 역할 분담
 

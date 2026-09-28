@@ -1,4 +1,4 @@
-# LLM Wiki 스키마
+# schema.md (스키마)
 
 ## 페이지 종류
 
@@ -16,11 +16,12 @@
 ```yaml
 ---
 type: concept
-title: Attention
+title: attention (어텐션)
 status: draft
 tags:
   - llm
-aliases: []
+aliases:
+  - Attention
 created: 2026-08-12
 updated: 2026-08-12
 sources: []
@@ -32,6 +33,7 @@ related: []
 
 - `type`: 위 페이지 종류 중 하나를 사용한다.
 - `title`: 사람이 읽는 제목을 기록한다.
+- `title`과 문서 첫 번째 H1은 영문 식별자를 먼저 쓰고 한글 설명을 소괄호로 병기한다. 예: `attention (어텐션)`. 널리 쓰이는 약어·제품명·고유명사는 원문 표기를 유지하거나 `aliases`에 추가한다.
 - `status`: `draft`, `review`, `stable`, `deprecated` 중 하나를 사용한다.
 - `tags`: 짧고 재사용 가능한 분류 태그를 사용한다.
 - `aliases`: 약어·한국어·영문명 등 검색에 사용할 별칭을 기록한다.
@@ -51,7 +53,7 @@ related: []
 ### Concept / Entity
 
 ```markdown
-# 제목
+# identifier (한글 설명)
 
 ## 한 줄 요약
 
@@ -99,7 +101,7 @@ related: []
 ```markdown
 ## [2026-08-12] init | Wiki skeleton
 
-- LLM Wiki 기본 구조를 생성함
+- LLM WIKI 기본 구조를 생성함
 ```
 
 ## 충돌 처리

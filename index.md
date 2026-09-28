@@ -1,4 +1,4 @@
-# LLM Wiki 홈
+# index.md (홈)
 
 ## 목적
 
