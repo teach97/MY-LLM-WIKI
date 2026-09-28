@@ -24,7 +24,7 @@
 
 ## 작업 명령
 
-- 자료 추가: `raw/sources/`에 원본을 넣고 Codex에게 `ingest` 요청
+- 자료 추가: `raw/sources/`에 원본을 넣고 에이전트에게 `ingest` 요청
 - 질문: 읽기 전용 검색 요청
 - 저장: 가치 있는 답변을 `wiki/queries/` 또는 `wiki/synthesis/`에 기록
 - 점검: `lint` 요청

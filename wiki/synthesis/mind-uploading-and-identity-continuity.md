@@ -8,6 +8,7 @@ tags:
   - consciousness
   - metaverse
   - embodied-mind
+  - personal-view
 created: 2026-08-17
 updated: 2026-08-17
 sources: []
@@ -16,6 +17,8 @@ related:
 ---
 
 # mind-uploading-and-identity-continuity (마인드 업로딩과 자아의 연속성)
+
+> 개인 견해 인터뷰 기록 (2026-08-17). 출처 기반 리서치가 아니라 형님의 생각을 LLM과의 인터뷰 형식으로 정리한 문서다. 사실이 아닌 입장 표명으로 읽을 것.
 
 ## 한 줄 요약
 

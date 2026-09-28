@@ -5,7 +5,7 @@ Obsidian과 Codex로 유지하는 개인 LLM WIKI이다.
 ## 역할 분담
 
 - Obsidian: 노트 읽기, 링크 탐색, 그래프 확인, 수동 검토
-- Codex: 원본 ingest, 페이지 생성·갱신, 링크 연결, lint
+- 에이전트: 원본 ingest, 페이지 생성·갱신, 링크 연결, lint
 - Git: 변경 이력과 복구
 
 ## 시작 방법
@@ -13,7 +13,7 @@ Obsidian과 Codex로 유지하는 개인 LLM WIKI이다.
 1. 이 폴더를 Obsidian에서 Vault로 연다.
 2. `AGENTS.md`와 `purpose.md`, `schema.md`를 확인한다.
 3. 논문·기사·공식 문서를 `raw/sources/`에 저장한다.
-4. Codex에게 다음처럼 요청한다.
+4. 에이전트에게 다음처럼 요청한다.
 
 ```text
 raw/sources/파일명.md를 ingest해줘.
