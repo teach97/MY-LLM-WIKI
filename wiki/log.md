@@ -6,7 +6,17 @@
 - `purpose.md`, `schema.md`, `AGENTS.md`를 추가함
 - 원본 자료는 아직 추가하지 않음
 
-<<<<<<< Updated upstream
+## [2026-08-12] add | Korean console game and AI-assisted development query
+
+- 사용자 인터뷰에서 나온 한국 콘솔 게임 도전과 AI 에이전트 활용에 대한 관점을 조사 페이지로 기록함
+- 시장 성공 사례와 기술력 평가는 외부 출처가 없어 현재 가설로 표시함
+- `wiki/queries/korean-console-game-challenge-and-ai.md`를 인덱스와 개요에 연결함
+
+## [2026-08-13] add | Agent orchestration and delegation synthesis
+
+- 멀티 에이전트는 AGI의 필수 단계가 아니라 실용적 설계 방식이라는 사용자 관점을 기록함
+- 위험도와 되돌림 가능성에 따른 AI 권한 위임 초안을 추가함
+- 공개 자료와 사용자 관점을 구분하고, 인덱스와 개요에 연결함
 ## [2026-08-17] update | Conversation synthesis
 
 - Obsidian·Codex·Git의 역할, 새 채팅의 파일 검색 방식, 토큰·기억·정리 원칙을 `wiki/synthesis/llm-wiki-operating-model.md`에 정리함
@@ -33,16 +43,9 @@
 - `raw/sources/space-bunny-alpha-research-2026-09-28.md`, `raw/sources/longcat-2-5-research-2026-09-28.md`에 원본 리서치 보존함
 - 출처 요약 `wiki/sources/space-bunny-alpha.md`, `wiki/sources/longcat-2-5-preview.md`를 추가함
 - Space Bunny 정체(MiniMax M3.1설 유력·미확정), LongCat 2.5(벤치 0건·DEV 실전 비교 N=1)를 구분 기록함
-=======
-## [2026-08-12] add | Korean console game and AI-assisted development query
 
-- 사용자 인터뷰에서 나온 한국 콘솔 게임 도전과 AI 에이전트 활용에 대한 관점을 조사 페이지로 기록함
-- 시장 성공 사례와 기술력 평가는 외부 출처가 없어 현재 가설로 표시함
-- `wiki/queries/korean-console-game-challenge-and-ai.md`를 인덱스와 개요에 연결함
+## [2026-09-29] add | User profile page
 
-## [2026-08-13] add | Agent orchestration and delegation synthesis
-
-- 멀티 에이전트는 AGI의 필수 단계가 아니라 실용적 설계 방식이라는 사용자 관점을 기록함
-- 위험도와 되돌림 가능성에 따른 AI 권한 위임 초안을 추가함
-- 공개 자료와 사용자 관점을 구분하고, 인덱스와 개요에 연결함
->>>>>>> Stashed changes
+- 에이전트 대응용 사용자 프로필 `wiki/entities/user-profile.md`를 추가함
+- 확인된 사실(GitHub ID, 환경, 프로젝트)과 관찰(말투·작업 선호)을 구분 기록함
+- 관찰 항목은 단일 세션 기준이라 일반화 주의(`확인 필요`)

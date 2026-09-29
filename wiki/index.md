@@ -2,7 +2,7 @@
 
 ## 엔터티
 
-- 아직 없음
+- [[wiki/entities/user-profile]] — 에이전트 대응용 사용자 성향·환경 기록
 
 ## 개념
 
@@ -22,25 +22,14 @@
 ## 질문
 
 - [[wiki/queries/is-agi-within-three-years-consensus]] — AGI 3년 내 등장 전망의 전문가 합의 여부
+- [[wiki/queries/korean-console-game-challenge-and-ai]] — 한국 콘솔 게임 도전의 위험과 AI 에이전트 활용 가능성을 추적하는 질문
 
 ## 비교
 
 - 아직 없음
 
 ## 종합
-
-<<<<<<< Updated upstream
 - [[wiki/synthesis/llm-wiki-operating-model]] — Obsidian·Codex·Git 기반 위키 운영 모델
 - [[wiki/synthesis/agi-and-aaa-game-development]] — AGI가 AAA 게임 개발 시점에 미칠 영향
 - [[wiki/synthesis/mind-uploading-and-identity-continuity]] — 마인드 업로딩과 자아의 연속성에 대한 현재 입장
-=======
-- [[wiki/queries/korean-console-game-challenge-and-ai]] — 한국 콘솔 게임 도전의 위험과 AI 에이전트 활용 가능성을 추적하는 질문
-
-## Comparisons
-
-- 아직 없음
-
-## Synthesis
-
 - [[wiki/synthesis/agent-orchestration-and-delegation]] — 멀티 에이전트의 역할과 위험 기반 AI 권한 위임 기준
->>>>>>> Stashed changes
