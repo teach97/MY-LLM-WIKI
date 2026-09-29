@@ -30,10 +30,15 @@ LLM의 핵심 구조, 학습·정렬, 추론, 검색·에이전트 활용, 모�
 - 개념: [[wiki/concepts/attention]], [[wiki/concepts/transformer]]
 - 활용: [[wiki/concepts/retrieval-augmented-generation]]
 - 정렬: [[wiki/concepts/reinforcement-learning-from-human-feedback]]
+<<<<<<< Updated upstream
 - 운영: [[wiki/synthesis/llm-wiki-operating-model]]
 - 전망: [[wiki/synthesis/agi-and-aaa-game-development]]
 - 자아: [[wiki/synthesis/mind-uploading-and-identity-continuity]]
 - 질문: [[wiki/queries/is-agi-within-three-years-consensus]]
+=======
+- 조사 질문: [[wiki/queries/korean-console-game-challenge-and-ai]]
+- 종합: [[wiki/synthesis/agent-orchestration-and-delegation]]
+>>>>>>> Stashed changes
 
 ## 다음 점검 항목
 
