@@ -33,6 +33,7 @@
 
 ## 종합
 - [[wiki/synthesis/llm-wiki-operating-model]] — Obsidian·Codex·Git 기반 위키 운영 모델
+- [[wiki/synthesis/windows-agent-tooling-lessons]] — Windows 에이전트 세션 도구 삽질 기록 6건
 - [[wiki/synthesis/agi-and-aaa-game-development]] — AGI가 AAA 게임 개발 시점에 미칠 영향
 - [[wiki/synthesis/mind-uploading-and-identity-continuity]] — 마인드 업로딩과 자아의 연속성에 대한 현재 입장
 - [[wiki/synthesis/agent-orchestration-and-delegation]] — 멀티 에이전트의 역할과 위험 기반 AI 권한 위임 기준

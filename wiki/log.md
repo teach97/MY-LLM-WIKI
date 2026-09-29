@@ -61,3 +61,9 @@
 - `wiki/sources/enkoa-aio-curriculum-2026.md` (960시간, 현재 지식저장소 단원), `wiki/sources/enkoa-aio-ot-2026.md` (추출 불가, 확인 필요) 추가함
 - `wiki/entities/enkoa-aio-bootcamp.md` 엔티티 추가, 프로필·인덱스 연결함
 - OT PDF는 이미지 중심이라 내용 미확인
+
+## [2026-09-29] add | Windows agent tooling lessons
+
+- TRUE-OR-NOT 세션 삽질 6건을 wiki/synthesis/windows-agent-tooling-lessons.md에 종합
+- graphify 심 재설치, BOM 없는 .graphify_python 기록, TYPESAFE 401 분리 진단, npx PATH, NUL 삭제, 버튼 min-height 오버라이드
+- 인덱스 종합 섹션에 연결
