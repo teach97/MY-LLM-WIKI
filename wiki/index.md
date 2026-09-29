@@ -3,6 +3,7 @@
 ## 엔터티
 
 - [[wiki/entities/user-profile]] — 에이전트 대응용 사용자 성향·환경 기록
+- [[wiki/entities/enkoa-aio-bootcamp]] — 수강 중인 엔코아 AI어플리케이션 2기 과정
 
 ## 개념
 
@@ -18,6 +19,8 @@
 - [[wiki/sources/google-deepmind-genie-3]] — 실시간 생성 세계 연구 프리뷰
 - [[wiki/sources/space-bunny-alpha]] — 스텔스 LLM 실사용 평가 (X/Reddit)
 - [[wiki/sources/longcat-2-5-preview]] — 롱캣 2.5 프리뷰 출시 직후 평가
+- [[wiki/sources/enkoa-aio-curriculum-2026]] — 엔코아 AI어플리케이션 2기 일자별 커리큘럼
+- [[wiki/sources/enkoa-aio-ot-2026]] — 엔코아 AIO 2기 OT 자료 (미확인)
 
 ## 질문
 

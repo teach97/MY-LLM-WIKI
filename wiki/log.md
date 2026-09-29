@@ -54,3 +54,10 @@
 
 - 위키 인터뷰·합성 문서를 읽고 관심사(콘솔 게임, 자아 연속성, AGI 전망)와 작업·권한관을 프로필에 반영함
 - 관련 페이지 4건을 `related`에 연결함
+
+## [2026-09-29] ingest | Bootcamp curriculum
+
+- `raw/sources/`에 OT·커리큘럼 PDF 2건 보존함
+- `wiki/sources/enkoa-aio-curriculum-2026.md` (960시간, 현재 지식저장소 단원), `wiki/sources/enkoa-aio-ot-2026.md` (추출 불가, 확인 필요) 추가함
+- `wiki/entities/enkoa-aio-bootcamp.md` 엔티티 추가, 프로필·인덱스 연결함
+- OT PDF는 이미지 중심이라 내용 미확인

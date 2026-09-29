@@ -14,6 +14,7 @@ related:
   - wiki/synthesis/mind-uploading-and-identity-continuity
   - wiki/synthesis/agi-and-aaa-game-development
   - wiki/synthesis/agent-orchestration-and-delegation
+  - wiki/entities/enkoa-aio-bootcamp
 ---
 
 # user-profile (사용자 프로필)
@@ -28,6 +29,7 @@ related:
 - Playdata 아카데미 수강 중. 강사 레포(`2026-aio2-guide`)로 LLM 앱 개발 실습 Day11까지 진행.
 - 작업 환경: Windows + PowerShell, VS Code + GitHub Desktop.
 - 진행 중 프로젝트: TRUE-OR-NOT (Next.js + FastAPI 팩트체크 앱).
+- 수강 과정: [[wiki/entities/enkoa-aio-bootcamp]] (2026-08-06~2027-01-29, 총 960시간).
 - 사용 도구: OpenCode, Codex, Hive API (DeepSeek/GLM), OpenAI API (GPT-6), Obsidian 위키(MY-LLM-WIKI) 운영.
 
 ## 관심사 (위키 인터뷰·기록에서 확인)
