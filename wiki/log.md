@@ -67,3 +67,9 @@
 - TRUE-OR-NOT 세션 삽질 6건을 wiki/synthesis/windows-agent-tooling-lessons.md에 종합
 - graphify 심 재설치, BOM 없는 .graphify_python 기록, TYPESAFE 401 분리 진단, npx PATH, NUL 삭제, 버튼 min-height 오버라이드
 - 인덱스 종합 섹션에 연결
+
+## [2026-10-03] ingest | Fledge Alpha Free + Ling 3.0 Flash Fin research
+
+- `raw/sources/fledge-alpha-research-2026-10-03.md`, `raw/sources/ling-3-0-flash-fin-research-2026-10-03.md`에 원본 리서치 보존함
+- 출처 요약 `wiki/sources/fledge-alpha-free.md`, `wiki/sources/ling-3-0-flash-fin.md`를 추가함
+- Fledge는 zero-retention 아님(주의), Ling Fin은 정식 모델·AA 등재(Fin 지능 23)로 구분 기록함

@@ -21,6 +21,8 @@
 - [[wiki/sources/longcat-2-5-preview]] — 롱캣 2.5 프리뷰 출시 직후 평가
 - [[wiki/sources/enkoa-aio-curriculum-2026]] — 엔코아 AI어플리케이션 2기 일자별 커리큘럼
 - [[wiki/sources/enkoa-aio-ot-2026]] — 엔코아 AIO 2기 OT 자료 (미확인)
+- [[wiki/sources/fledge-alpha-free]] — 플리지 알파 프리 출시 직후 평가
+- [[wiki/sources/ling-3-0-flash-fin]] — 링 3.0 플래시 핀 정식 모델 평가
 
 ## 질문
 
